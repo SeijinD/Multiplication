@@ -1,5 +1,8 @@
 import random
 
+print("If you want to exit click q.")
+print("If you want to reset number to practice again in different number click c.")
+
 while True:
     breaker = False
     print("Type a number to practice?")
